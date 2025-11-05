@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Find My Spot",
+  "description": "An AI-powered web application that analyzes an uploaded photo of a landscape or cityscape and identifies its potential location on Earth by simulating a match against a satellite imagery database.",
+  "requestFramePermissions": []
+}
